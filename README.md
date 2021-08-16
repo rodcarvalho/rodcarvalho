@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username={rodcarvalho}
+
+https://github-readme-stats.vercel.app/api?username={rodcarvalho}
+
 <!--
 **rodcarvalho/rodcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
