@@ -3,9 +3,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=rodcarvalho)
 ![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 
-https://github-readme-stats.vercel.app/api?username={rodcarvalho}
+![](https://github-readme-stats.vercel.app/api?username={rodcarvalho})
 
-https://github-readme-stats.vercel.app/api?username={rodcarvalho}
+![](https://github-readme-stats.vercel.app/api?username={rodcarvalho})
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodcarvalho&show_icons=true&theme=radical)
 
