@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=rodcarvalho&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rodcarvalho/rodcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
