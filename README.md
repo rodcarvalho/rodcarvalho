@@ -36,13 +36,13 @@
 ### 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodcarvalho&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=default&hide=css,ren'py&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=default&hide=css,ren'py&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rodcarvalho"><img>
+</p>
 
-![Visitors Count](https://visitor-badge.laobi.icu/badge?page_id=rodcarvalho)
-</p> 
 <!--
 **rodcarvalho/rodcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
