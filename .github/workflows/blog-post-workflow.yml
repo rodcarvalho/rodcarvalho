@@ -5,10 +5,15 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Magic README Update  with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: rodcarvalho/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          comment_tag_name: "Tutorial"
+          commit_message: "Updated readme with the latest blog posts"
+          enable_keepalive: true
+          max_post_count: 5
+          
+          feed_list: "https://www.rodcarvalho.dev/posts/"
