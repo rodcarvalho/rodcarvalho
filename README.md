@@ -2,7 +2,7 @@
 
 ### About Me
 
-- I am iOS developer at[Apple Developer Academy | SENAC](http://developeracademy.sp.senac.br) 👨🏻‍💻
+- I am iOS developer at [Apple Developer Academy | SENAC](http://developeracademy.sp.senac.br) 👨🏻‍💻
 - I have a degree in Multimedia Production 🎓
 - Systems Analysis and Development Student 📚
 - PC Gamer in  my spare time 🎮
@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigobcarvalho/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](barretocarvalho.contato@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carvalhorodz)
-
 <a href="mailto:barretocarvalho.contato@gmail.com?subject=Olá%20Rodrigo%20Carvalho"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
