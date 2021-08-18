@@ -7,14 +7,19 @@
 - Biker on weekends 🚴🏻
 - Third-degree white belt Jiu-Jitsu fighter 🥋
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigobcarvalho/)
 <a href="mailto:barretocarvalho.contato@gmail.com?subject=Olá%20Rodrigo%20Carvalho"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carvalhorodz)
 
+## Blog posts
 
-### 🛠 Languages and development tools 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+## 🛠 Languages and development tools 
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,11 +34,11 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
   
-### 💻 Workspace
+## 💻 Workspace
 
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-### 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodcarvalho&show_icons=true&theme=dark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=default&hide=css,ren'py&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
