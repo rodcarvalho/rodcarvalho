@@ -1,7 +1,4 @@
 # Hi, I'm [Rodrigo Carvalho](https://github.com/rodcarvalho/) 👋
-<p align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rodcarvalho"><img>
-</p>
 
 - iOS developer at [Apple Developer Academy | SENAC](http://developeracademy.sp.senac.br) 👨🏻‍💻
 - I have a degree in Multimedia Production 🎓
