@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=rodcarvalho)
+![](https://visitor-badge.laobi.icu/badge?page_id=rodcarvalho)  
 ![](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=rodcarvalho&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=rodcarvalho&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rodcarvalho/rodcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
