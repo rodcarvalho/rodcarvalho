@@ -15,5 +15,4 @@ jobs:
           commit_message: "Updated readme with the latest blog posts"
           enable_keepalive: true
           max_post_count: 5
-          
           feed_list: "https://www.rodcarvalho.dev/posts/"
