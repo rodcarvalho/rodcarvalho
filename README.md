@@ -36,7 +36,7 @@
 ### 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodcarvalho&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=compact&hide=css,renpy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcarvalho&layout=compact&hide=css,ren'py&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="right">
