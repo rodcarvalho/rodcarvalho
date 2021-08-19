@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: rodcarvalho/workflows/blog-post-workflow@master
+      - uses: rodcarvalho/.github/workflows/blog-post-workflow@master
         with:
           comment_tag_name: "Tutorial"
           commit_message: "Updated readme with the latest blog posts"
