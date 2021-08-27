@@ -13,10 +13,10 @@
 <a href="mailto:barretocarvalho.contato@gmail.com?subject=Olá%20Rodrigo%20Carvalho"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carvalhorodz)
 
-## Blog posts
+## 📝 Blog posts
 
-- ✨[Como personalizar seu perfil no Github](https://www.rodcarvalho.dev/posts/tutoriais/github-perfil-personalizado/)    
-- 🤯[View Code: Projeto iOS sem storyboards PARTE: 1](https://www.rodcarvalho.dev/posts/tutoriais/removendo-storyboards/)
+- ✨ [Como personalizar seu perfil no Github](https://www.rodcarvalho.dev/posts/tutoriais/github-perfil-personalizado/)    
+- 🤯 [View Code: Projeto iOS sem storyboards PARTE: 1](https://www.rodcarvalho.dev/posts/tutoriais/removendo-storyboards/)
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
