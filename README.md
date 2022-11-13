@@ -5,7 +5,7 @@
 - Systems Analysis and Development Student 📚
 - PC Gamer in  my spare time 🎮
 - Biker on weekends 🚴🏻
-- Third-degree white belt Jiu-Jitsu fighter 🥋
+- Blue belt Jiu-Jitsu fighter 🥋
 
 ## 📫 How to reach me:
 
